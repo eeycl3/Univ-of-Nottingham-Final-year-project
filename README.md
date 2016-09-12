@@ -14,6 +14,6 @@ The thesis shows the result and discussions of the projects.
 Hope this will help someone.
 
 If you use the code and the report, please quote them!
-
+Any questions can contact me by email:Chi_LIU@hotmail.com
 
 Chi LIU.
